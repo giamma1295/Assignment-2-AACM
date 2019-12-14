@@ -38,7 +38,7 @@ class Graph:
         pass
     #function for DirectedGraph Creation
     def __mkDiGraph(self,N,p):
-        print("Directed")
+        #print("Directed")
         for u in range(N):
             for v in range(N):
                 if u == v:
@@ -51,7 +51,7 @@ class Graph:
         pass
     #function for Simple Graph Creation
     def __mkGraph(self,N,p):
-        print("Not Directed")
+        #print("Not Directed")
         for u in range(N):
             for v in range(u + 1 , N):
                 if p >= random(): 
@@ -88,8 +88,8 @@ class Graph:
         else:
             d = self.__degDistSimple()
         
-        #d = list(map(lambda x : float(x)/self.__vertrexN, d))
-        print(d)
+        d = list(map(lambda x : float(x)/self.__vertrexN, d))
+        #print(d)
 
         #test purpose
         #x = 0.0
@@ -110,7 +110,7 @@ class Graph:
             temp[edge[1]] = temp[edge[1]] + 1
             pass
         pass
-        print(temp)
+        #print(temp)
 
         #let's create the list containing the distribution
         #it will be list[k] -> number of vertrex having k degree in the graph

@@ -1,0 +1,125 @@
+gianmariascorza@Gianmarias-MacBook-Pro Assignment-2-AACM % python3 main.py
+We will create 10 Simple graphs using the Erdos-Renyi Model
+Using the Following parameter : N -> 10, p -> 0.31
+and for each one we will calculate the degree distribution
+
+--------------------------
+Graph 1 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 18
+--------------------------
+
+
+--------------------------
+Graph 2 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 14
+--------------------------
+
+
+--------------------------
+Graph 3 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 11
+--------------------------
+
+
+--------------------------
+Graph 4 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 12
+--------------------------
+
+
+--------------------------
+Graph 5 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 16
+--------------------------
+
+
+--------------------------
+Graph 6 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 17
+--------------------------
+
+
+--------------------------
+Graph 7 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 14
+--------------------------
+
+
+--------------------------
+Graph 8 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 17
+--------------------------
+
+
+--------------------------
+Graph 9 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 12
+--------------------------
+
+
+--------------------------
+Graph 10 infos 
+Graph info
+Directed : False
+Number of vertrex : 10
+Number of edges : 11
+--------------------------
+
+
+---------------------------------
+
+------Degree Distributions-------
+
+---------------------------------
+[0.0, 0.2, 0.1, 0.1, 0.3, 0.1, 0.2, 0.0, 0.0, 0.0]
+
+[0.1, 0.0, 0.3, 0.2, 0.4, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+[0.0, 0.3, 0.2, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+[0.0, 0.3, 0.4, 0.1, 0.0, 0.2, 0.0, 0.0, 0.0, 0.0]
+
+[0.0, 0.0, 0.4, 0.2, 0.2, 0.2, 0.0, 0.0, 0.0, 0.0]
+
+[0.0, 0.0, 0.3, 0.1, 0.5, 0.1, 0.0, 0.0, 0.0, 0.0]
+
+[0.0, 0.1, 0.4, 0.1, 0.4, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+[0.0, 0.0, 0.3, 0.2, 0.3, 0.2, 0.0, 0.0, 0.0, 0.0]
+
+[0.2, 0.1, 0.3, 0.1, 0.2, 0.0, 0.1, 0.0, 0.0, 0.0]
+
+[0.1, 0.2, 0.4, 0.1, 0.1, 0.1, 0.0, 0.0, 0.0, 0.0]
+---------------------------------
+
+The average degree distribution for the experiment is :
+ 
+[0.04, 0.12, 0.30999999999999994, 0.17000000000000004, 0.24, 0.09, 0.030000000000000006, 0.0, 0.0, 0.0]
+gianmariascorza@Gianmarias-MacBook-Pro Assignment-2-AACM % 
